@@ -4,6 +4,8 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thihas0ehtet&&show_icons=true&theme=tokyonight&count_private=true)
+
 ## I'm a Mobile & Web Developer (Flutter, React and laravel)
 - 🌱 I’m currently learning everything 😅
 - 💬 Ask me about Flutter, React, laravel 🐍
