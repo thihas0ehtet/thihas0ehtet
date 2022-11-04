@@ -8,8 +8,6 @@
 
 ## I'm a Mobile & Web Developer (Flutter, React and laravel)
 
-![Thiha Soe Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thihas0ehtet&&show_icons=true&theme=tokyonight&count_private=true)
-
 ## Languages and Tools
 
 <p>
