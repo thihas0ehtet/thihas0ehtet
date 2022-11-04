@@ -7,11 +7,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thihas0ehtet&&show_icons=true&theme=tokyonight&count_private=true)
 
 ## I'm a Mobile & Web Developer (Flutter, React and laravel)
-- 🌱 I’m currently learning everything 😅
-- 💬 Ask me about Flutter, React, laravel 🐍
 
+![Thiha Soe Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thihas0ehtet&&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Languages and Tools
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" width="42px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Android Logo" width="42px">
